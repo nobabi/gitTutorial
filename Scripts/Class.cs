@@ -15,6 +15,7 @@ namespace gitTutorial.Scripts
         public int Phone { get; set; }
         public int Mail { get; set; }
         public int Education { get; set; }
+        public int MyProperty { get; set; }
 
 >>>>>>> 8add897251c04b9b8e1d3178a520c2fd97d10cb2
     }
